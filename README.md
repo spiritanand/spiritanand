@@ -1,8 +1,8 @@
-### Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+## Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 #### I'm a _Frontend_ Developer working in _Hyderabad, India_.
 
-#### Technologies and Tools I use <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="25">
+### Technologies and Tools I use <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="25">
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -14,7 +14,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-##### BIO <img src="https://media.tenor.com/VgFmESswPPgAAAAi/yeet-orange-justice.gif" width="25">
+### BIO <img src="https://media.tenor.com/VgFmESswPPgAAAAi/yeet-orange-justice.gif" width="25">
 
 - 🏢 I'm currently working at **Deloitte**
 - 🌱 Learning all about **Next.js**, **MERN Stack**, **Web3**
