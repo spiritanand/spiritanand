@@ -5,19 +5,19 @@
 ## Technologies and Tools I use <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="25">
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="./images/react.webp" 
-alt="react" width="40" height="35"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="./images/firebase.webp" 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/react.svg" 
+alt="react" width="40" height="40"/> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353735/firebase.svg" 
 alt="firebase" 
-width="30" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="./images/sass.webp" alt="sass" 
-width="50"height="40"/> </a>
+width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://www.svgrepo.com/show/374061/sass.svg" alt="sass" 
+width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="./images/js.webp" alt="javascript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="./images/git.webp" alt="git" 
+<img src="https://www.svgrepo.com/show/355081/js.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.svgrepo.com/show/349374/git.svg" alt="git" 
 width="40" 
 height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="./images/html.webp" alt="html5" 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" 
 width="40" height="40"/> </a>
 </p>
 
