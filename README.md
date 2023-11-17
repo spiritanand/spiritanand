@@ -1,6 +1,4 @@
-# Hi 👋 This is Suryansh Anand
-
-## Full Stack Developer | Builder | Learner
+# Full Stack Developer | Builder | Learner
 
 I love building products that bring value.
 
@@ -11,7 +9,7 @@ I love building products that bring value.
 - ✉️  You can contact me at [hi@anandsur.com](mailto:hi@anandsur.com)
 - ⚡  Fun fact: I'm a huge fan of Leo Messi 🐐
 
-### Skills
+## Skills
 
 - Next.js
 - Express
@@ -19,7 +17,7 @@ I love building products that bring value.
 - Tailwind CSS (SCSS/CSS)
 - Databases (MySQL/PostgreSQL/Redis/MongoDB)
 
-### Socials
+## Socials
 
 - 🐥 [Twitter](https://www.twitter.com/spiritanand)
 - 💼 [LinkedIn](https://www.linkedin.com/in/spiritanand/)
