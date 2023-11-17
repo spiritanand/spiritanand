@@ -8,7 +8,7 @@ I love designing and building products that bring value to users.
 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  [I live on the internet as well](http://anandsur.com)
-* 🧠  I'm learning Next.js, MERN Stack and Web3
+* 🧠  I'm learning Go(lang) and Web3
 * 🤝  I'm open to collaborating on with fellow developers and designers to build kick-ass products.
 * ✉️  You can contact me at [hi@anandsur.com](mailto:hi@anandsur.com)
 * ⚡  Fun fact: I'm a huge fan of Leo Messi 🐐
