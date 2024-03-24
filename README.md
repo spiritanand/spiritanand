@@ -2,7 +2,7 @@
 
 I love building products that bring value.
 
-- 🖥️  [I live on the internet as well](https://anandsur.com)
+- 🖥️  [I am live](https://anandsur.com)
 - 🧠  I'm learning Web3 (specifically Solana) and Rust.
 - 🤝  I'm open to collaborating on with fellow developers and designers to build kick-ass products.
 - ✉️  You can contact me at [hi@anandsur.com](mailto:hi@anandsur.com)
