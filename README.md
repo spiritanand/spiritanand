@@ -1,22 +1,7 @@
-# Full Stack Developer | Builder | Learner
+# Builder
 
-I love building products that bring value.
+Building * Exploring * Learning = **Magic**
 
 - 🖥️  [I am live](https://anandsur.com)
-- 🧠  I'm learning Web3 (specifically Solana) and Rust.
-- 🤝  I'm open to collaborating on with fellow developers and designers to build kick-ass products.
-- ✉️  You can contact me at [hi@anandsur.com](mailto:hi@anandsur.com)
-- ⚡  Fun fact: I'm a huge fan of Leo Messi 🐐
-
-## Skills
-
-- Next.js
-- Express
-- TypeScript
-- Tailwind CSS (SCSS/CSS)
-- Databases (MySQL/PostgreSQL/Redis/MongoDB)
-
-## Socials
-
-- 🐥 [Twitter](https://www.twitter.com/spiritanand)
-- 💼 [LinkedIn](https://www.linkedin.com/in/spiritanand/)
+- 🧠  I'm learning Web3 specifically ETH, i.e., Solidity.
+- ✉️  You can contact me at [hi@anandsur.com](mailto:hi@anandsur.com). I read each email under 300 words and with a clear.
